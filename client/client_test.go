@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/524119574/go-defi/binding/erc20"
+	"github.com/programmare-labs/go-defi-451/binding/erc20"
 
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
 	"github.com/ethereum/go-ethereum/common"
